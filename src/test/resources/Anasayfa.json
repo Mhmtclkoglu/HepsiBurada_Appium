@@ -1,0 +1,7 @@
+[
+  {
+    "key": "HomePage",
+    "androidValue": "//android.widget.FrameLayout[@content-desc=\"Anasayfam\"]/android.widget.FrameLayout/android.widget.ImageView",
+    "androidType": "xpath"
+  }
+]

@@ -1,0 +1,18 @@
+Created by testinium on 18.04.2023
+
+This is a concept file with following syntax for each concept.
+# Ana Sayfaya Gitme
+* "<element> xpath'li elemente tikla" xpath'li elemente tikla
+
+
+# Giris Yapma
+* "AccountIcon" li element gorunur olana kadar bekle
+* "AccountIcon" id'li elemente tikla
+* "Login" xpath'li element gorunur olana kadar bekle
+* "Login" xpath'li elemente tikla
+* "LoginCheck" xpath'li element gorunur olana kadar bekle
+* "EmailEntrance" id'li elemente "mehmetali.colakoglu@testinium.com" text degerini gonder
+* "LoginButton" id'li elemente tikla
+* "WelcomePageCheck" xpath'li element gorunur olana kadar bekle
+* "PasswordEntrance" xpath'li elemente "12345qwert" text degerini gonder
+* "EntrancePageCheck" li element gorunur olana kadar bekle

@@ -1,0 +1,11 @@
+# Sepete Ekleme
+* "ChooseProduct" xpath'li elemente tikla
+* "ProductDetail" id'li elemente tikla
+* "AddToBasket" id'li elemente tikla
+* "CheckTheAdd" li element gorunur olana kadar bekle
+
+# Urun Arttirip Azaltma ve Alisverisi Tamamlama
+* "GoToBasket" id'li elemente tikla
+* "IncreaseProduct" xpath'li elemente tikla
+* "DecreaseProduct" xpath'li elemente tikla
+* "FinishShopp" id'li elemente tikla
